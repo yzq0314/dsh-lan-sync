@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "LAN plugin sync",
+    "description": "Sync installed plugins, their configuration and agent presets between machines on the same LAN. Pair once with a code, review the diff, then apply locally. Nothing is applied by a peer on its own.",
+    "detail": "docs/DETAIL.md"
+  }
+}

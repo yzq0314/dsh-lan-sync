@@ -1,0 +1,4 @@
+# Bundle layer for dsh-lan-sync: one Host row, no Client half yet.
+- insert:
+    - id: lan-sync
+      name: dsh-lan-sync
